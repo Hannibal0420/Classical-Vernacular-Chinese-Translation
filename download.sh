@@ -1,3 +1,3 @@
 #!/bin/bash
 
-python /src/download.py
+python ./src/download.py
